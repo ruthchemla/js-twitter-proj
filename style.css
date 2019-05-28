@@ -1,0 +1,16 @@
+h1, h2 {
+  font-family: Lato;
+}
+li {
+  display: inline;
+  margin: 5px;
+}
+
+#navigation2 {
+    float: right;
+    width: 400px;
+}
+
+#content {
+    margin: 0 100px;
+}

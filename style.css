@@ -1,16 +1,10 @@
 h1, h2 {
   font-family: Lato;
 }
-li {
-  display: inline;
-  margin: 5px;
-}
-
-#navigation2 {
-    float: right;
-    width: 400px;
-}
-
-#content {
-    margin: 0 100px;
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  height:50px;
+  background-color: red;
+  list-style-type: none;
 }
